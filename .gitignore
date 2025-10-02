@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.idea/
+.vscode/
+
+# yt-dlp temporary files
+*.part
+*.ytdl
+*.temp
+*.webm
+*.mkv
+
+# Logs
+*.log
+
+# Telegram bot uploads
+*.mp4
+*.mp3
+*.m4a
+
+# Secrets
+cookies.txt
+.env
